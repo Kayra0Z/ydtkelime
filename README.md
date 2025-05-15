@@ -28,11 +28,11 @@ Bu liste, son yıllardaki YDT ve YDS sınavlarından (20'den fazla dosya) analiz
 
 | İngilizce Kelime | Türkçe Anlamları                      |
 | :--------------- | :------------------------------------ |
-| 📖 **accuracy**  | *doğruluk, kesinlik, hassasiyet*       |
-| ⚠️ **blunder**   | *büyük hata, gaf, pot kırmak*         |
-|  clumsy         | *sakar, beceriksiz, hantal*           |
-| ⛏️ **extracting**| *çıkarma, özünü çıkarma*             |
-| ❤️ **fond**      | *düşkün, seven (-e düşkün)*           |
+|  **accuracy**  | *doğruluk, kesinlik, hassasiyet*       |
+|  **blunder**   | *büyük hata, gaf, pot kırmak*         |
+|  **clumsy**         | *sakar, beceriksiz, hantal*           |
+|  **extracting**| *çıkarma, özünü çıkarma*             |
+|  **fond**      | *düşkün, seven (-e düşkün)*           |
 | ...**3000+** |                               |
 
 ---
